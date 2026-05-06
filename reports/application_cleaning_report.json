@@ -1,0 +1,139 @@
+{
+    "total_rows": 307511,
+    "total_columns": 123,
+    "duplicate_rows": 0,
+    "target_distribution": {
+        "0": {
+            "count": 282686,
+            "percentage": 91.9271
+        },
+        "1": {
+            "count": 24825,
+            "percentage": 8.0729
+        }
+    },
+    "missing_values_top_30": {
+        "COMMONAREA_AVG": {
+            "count": 214865,
+            "percentage": 69.8723
+        },
+        "COMMONAREA_MEDI": {
+            "count": 214865,
+            "percentage": 69.8723
+        },
+        "COMMONAREA_MODE": {
+            "count": 214865,
+            "percentage": 69.8723
+        },
+        "NONLIVINGAPARTMENTS_MODE": {
+            "count": 213514,
+            "percentage": 69.433
+        },
+        "NONLIVINGAPARTMENTS_MEDI": {
+            "count": 213514,
+            "percentage": 69.433
+        },
+        "NONLIVINGAPARTMENTS_AVG": {
+            "count": 213514,
+            "percentage": 69.433
+        },
+        "FONDKAPREMONT_MODE": {
+            "count": 210295,
+            "percentage": 68.3862
+        },
+        "LIVINGAPARTMENTS_MEDI": {
+            "count": 210199,
+            "percentage": 68.355
+        },
+        "LIVINGAPARTMENTS_MODE": {
+            "count": 210199,
+            "percentage": 68.355
+        },
+        "LIVINGAPARTMENTS_AVG": {
+            "count": 210199,
+            "percentage": 68.355
+        },
+        "FLOORSMIN_AVG": {
+            "count": 208642,
+            "percentage": 67.8486
+        },
+        "FLOORSMIN_MODE": {
+            "count": 208642,
+            "percentage": 67.8486
+        },
+        "FLOORSMIN_MEDI": {
+            "count": 208642,
+            "percentage": 67.8486
+        },
+        "YEARS_BUILD_MODE": {
+            "count": 204488,
+            "percentage": 66.4978
+        },
+        "YEARS_BUILD_AVG": {
+            "count": 204488,
+            "percentage": 66.4978
+        },
+        "YEARS_BUILD_MEDI": {
+            "count": 204488,
+            "percentage": 66.4978
+        },
+        "OWN_CAR_AGE": {
+            "count": 202929,
+            "percentage": 65.9908
+        },
+        "LANDAREA_MEDI": {
+            "count": 182590,
+            "percentage": 59.3767
+        },
+        "LANDAREA_MODE": {
+            "count": 182590,
+            "percentage": 59.3767
+        },
+        "LANDAREA_AVG": {
+            "count": 182590,
+            "percentage": 59.3767
+        },
+        "BASEMENTAREA_AVG": {
+            "count": 179943,
+            "percentage": 58.516
+        },
+        "BASEMENTAREA_MEDI": {
+            "count": 179943,
+            "percentage": 58.516
+        },
+        "BASEMENTAREA_MODE": {
+            "count": 179943,
+            "percentage": 58.516
+        },
+        "EXT_SOURCE_1": {
+            "count": 173378,
+            "percentage": 56.3811
+        },
+        "NONLIVINGAREA_MODE": {
+            "count": 169682,
+            "percentage": 55.1792
+        },
+        "NONLIVINGAREA_AVG": {
+            "count": 169682,
+            "percentage": 55.1792
+        },
+        "NONLIVINGAREA_MEDI": {
+            "count": 169682,
+            "percentage": 55.1792
+        },
+        "ELEVATORS_MEDI": {
+            "count": 163891,
+            "percentage": 53.296
+        },
+        "ELEVATORS_MODE": {
+            "count": 163891,
+            "percentage": 53.296
+        },
+        "ELEVATORS_AVG": {
+            "count": 163891,
+            "percentage": 53.296
+        }
+    },
+    "numeric_column_count": 107,
+    "categorical_column_count": 16
+}

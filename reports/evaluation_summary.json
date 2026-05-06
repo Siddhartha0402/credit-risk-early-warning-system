@@ -1,0 +1,14 @@
+{
+    "model_path": "C:\\credit-risk-early-warning-system\\models\\credit_risk_model.pkl",
+    "features_path": "C:\\credit-risk-early-warning-system\\data\\processed\\application_train_features.csv",
+    "roc_auc": 0.7616452152580888,
+    "average_precision": 0.2520845070521708,
+    "threshold_report_path": "C:\\credit-risk-early-warning-system\\reports\\threshold_tuning_report.csv",
+    "risk_band_report_path": "C:\\credit-risk-early-warning-system\\reports\\risk_band_report.csv",
+    "figures": {
+        "roc_curve": "C:\\credit-risk-early-warning-system\\reports\\figures\\roc_curve.png",
+        "precision_recall_curve": "C:\\credit-risk-early-warning-system\\reports\\figures\\precision_recall_curve.png",
+        "confusion_matrix_threshold_0.30": "C:\\credit-risk-early-warning-system\\reports\\figures\\confusion_matrix_threshold_0.30.png",
+        "confusion_matrix_threshold_0.50": "C:\\credit-risk-early-warning-system\\reports\\figures\\confusion_matrix_threshold_0.50.png"
+    }
+}

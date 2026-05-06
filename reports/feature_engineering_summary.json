@@ -1,0 +1,32 @@
+{
+    "source_path": "C:\\credit-risk-early-warning-system\\data\\raw\\application_train.csv",
+    "output_path": "C:\\credit-risk-early-warning-system\\data\\processed\\application_train_features.csv",
+    "original_shape": [
+        307511,
+        122
+    ],
+    "final_shape": [
+        307511,
+        137
+    ],
+    "new_feature_count": 15,
+    "new_feature_names": [
+        "credit_to_income_ratio",
+        "annuity_to_income_ratio",
+        "goods_to_credit_ratio",
+        "credit_to_goods_ratio",
+        "income_per_child",
+        "income_per_family_member",
+        "age_years",
+        "employment_years",
+        "employment_to_age_ratio",
+        "ext_source_mean",
+        "ext_source_std",
+        "ext_source_min",
+        "ext_source_max",
+        "children_ratio",
+        "has_children"
+    ],
+    "days_employed_anomaly_value": 365243,
+    "days_employed_replaced_with_nan": 55374
+}

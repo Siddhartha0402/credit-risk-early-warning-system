@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.matplotlib/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and model artifacts
+data/processed/*
+!data/processed/.gitkeep
+models/*
+!models/.gitkeep
+reports/figures/*
+!reports/figures/.gitkeep
+*.pkl
+*.joblib
+*.onnx
+
+# Local environment
+.env
+.env.*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+data/raw/
+data/processed/
+*.zip
+*.parquet
+
+.env
+.DS_Store
+*.log
+.matplotlib/

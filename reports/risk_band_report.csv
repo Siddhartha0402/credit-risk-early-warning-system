@@ -1,0 +1,4 @@
+risk_band,customer_count,average_predicted_probability,actual_default_rate
+Low Risk,23184,0.19505598,0.023291925465838508
+Medium Risk,26130,0.43607154,0.07072330654420207
+High Risk,12189,0.7165873,0.21142013290671918
